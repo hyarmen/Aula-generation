@@ -3,6 +3,7 @@ programa
 	
 	funcao inicio()
 	{
+		escreva("Olá Mundo!\n")
 		inteiro num1, num2, num3, num4, num5
 		num1 = -1
 		num2 = 3
@@ -29,7 +30,7 @@ programa
  * Esta seção do arquivo guarda informações do Portugol Studio.
  * Você pode apagá-la se estiver utilizando outro editor.
  * 
- * @POSICAO-CURSOR = 774; 
+ * @POSICAO-CURSOR = 58; 
  * @PONTOS-DE-PARADA = ;
  * @SIMBOLOS-INSPECIONADOS = ;
  * @FILTRO-ARVORE-TIPOS-DE-DADO = inteiro, real, logico, cadeia, caracter, vazio;
